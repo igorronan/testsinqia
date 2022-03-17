@@ -27,6 +27,7 @@ Versão chrome: Menu > Ajuda > Sobre o Google Chrome
 
 ## Cenários possiveis
 
+```sh
 Como usuario: Ao clicar na lupa de pesquisa:
 Criterios:
 
@@ -52,7 +53,7 @@ Criterios:
         5.3.2 Descrição;
         5.3.3 Input para nova pesquisa, com a pesquisa anterior já preenchida;
 
-
+```
 ## Utilização
 
 No prompt de comando:
